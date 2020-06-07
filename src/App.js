@@ -4,7 +4,6 @@ import CardDeck from 'react-bootstrap/CardDeck';
 import Columns from 'react-bootstrap/CardColumns';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from "axios";
-import './App.css';
 import Form from "react-bootstrap/Form";
 import NumberFormat from 'react-number-format';
 
