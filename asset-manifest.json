@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/meghanar121/covid-19/static/css/main.5f361e03.chunk.css",
-    "main.js": "/meghanar121/covid-19/static/js/main.c4b69c2c.chunk.js",
-    "main.js.map": "/meghanar121/covid-19/static/js/main.c4b69c2c.chunk.js.map",
+    "main.css": "/meghanar121/covid-19/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/meghanar121/covid-19/static/js/main.46cc5b47.chunk.js",
+    "main.js.map": "/meghanar121/covid-19/static/js/main.46cc5b47.chunk.js.map",
     "runtime-main.js": "/meghanar121/covid-19/static/js/runtime-main.d817f11b.js",
     "runtime-main.js.map": "/meghanar121/covid-19/static/js/runtime-main.d817f11b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/meghanar121/covid-19/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bab46453.chunk.js": "/meghanar121/covid-19/static/js/2.bab46453.chunk.js",
-    "static/js/2.bab46453.chunk.js.map": "/meghanar121/covid-19/static/js/2.bab46453.chunk.js.map",
+    "static/js/2.e0aceb2a.chunk.js": "/meghanar121/covid-19/static/js/2.e0aceb2a.chunk.js",
+    "static/js/2.e0aceb2a.chunk.js.map": "/meghanar121/covid-19/static/js/2.e0aceb2a.chunk.js.map",
     "index.html": "/meghanar121/covid-19/index.html",
-    "precache-manifest.0e53996849b142e4be6af864d32ffd52.js": "/meghanar121/covid-19/precache-manifest.0e53996849b142e4be6af864d32ffd52.js",
+    "precache-manifest.ac4fbd08eda7a417640b0eceecd3313f.js": "/meghanar121/covid-19/precache-manifest.ac4fbd08eda7a417640b0eceecd3313f.js",
     "service-worker.js": "/meghanar121/covid-19/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/meghanar121/covid-19/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/meghanar121/covid-19/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bab46453.chunk.js.LICENSE.txt": "/meghanar121/covid-19/static/js/2.bab46453.chunk.js.LICENSE.txt"
+    "static/css/main.5ecd60fb.chunk.css.map": "/meghanar121/covid-19/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e0aceb2a.chunk.js.LICENSE.txt": "/meghanar121/covid-19/static/js/2.e0aceb2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d817f11b.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bab46453.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c4b69c2c.chunk.js"
+    "static/js/2.e0aceb2a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.46cc5b47.chunk.js"
   ]
 }
