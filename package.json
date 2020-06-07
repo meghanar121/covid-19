@@ -16,7 +16,7 @@
     "react-number-format": "^4.4.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://github.com/meghanar121/covid-19",
+  "homepage": "https://meghanar121.github.io/covid-19",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
