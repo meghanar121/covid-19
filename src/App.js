@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from "axios";
 import Form from "react-bootstrap/Form";
 import NumberFormat from 'react-number-format';
+import Navbar from 'react-bootstrap/Navbar';
 
 function App() {
 
@@ -66,6 +67,14 @@ return searchCountries !== "" ? item.country.includes(searchCountries):item;
   }];
   return (
     <div>
+      <br/>
+      
+      <Navbar className="justify-content-center" bg="dark" variant="dark">
+    <Navbar.Brand  href="#home">
+      <h1>Covid-19 Live Updates </h1>
+    </Navbar.Brand>
+  </Navbar>
+      <br/>
       <CardDeck>
   <Card bg="info" text="white" className="text-center"style={{margin:"10px"}}>
     <Card.Body>
