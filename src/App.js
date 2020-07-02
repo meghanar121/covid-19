@@ -71,6 +71,12 @@ return searchCountries !== "" ? item.country.includes(searchCountries):item;
       
       <Navbar className="justify-content-center" bg="dark" variant="dark">
     <Navbar.Brand  href="#home">
+    <div className="logo">
+	<span></span>
+	<span></span>
+	<span></span>
+	<span></span>
+</div>
       <h1>Covid-19 Live Updates </h1>
     </Navbar.Brand>
   </Navbar>
